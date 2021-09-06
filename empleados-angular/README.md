@@ -10,5 +10,5 @@ con un nombre y la funcion.
 - Realizar git clone del repositorio en cualquier carpeta.
 - Para levantar la aplicacion de Angular. Ejecutar comando: ng serve -o
 - Verificar que aparezca la siguiente ventana cuando termine de ejecutar
-  ![Alt text](https://github.com/giovannymontero-creator/app-empleados/tree/master/manual-img/listar.png "Listar locations")
+  ![listar](https://user-images.githubusercontent.com/66186685/132244989-12b11e14-6c0d-4651-ab41-fbbd60b190bd.png)
 
