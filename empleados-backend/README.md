@@ -30,7 +30,7 @@ Lastimosamente no he manejado docker para los proyectos, por lo tanto no se logr
 
 ## Creación de base de datos
 Unicamente se debe crear la base de datos con el nombre db_prueba en cualquier gestor de MySQL por ejemplo Workbench, logearse con usuario root y la contraseña respectiva.
-###Script: create database db_prueba;
+### Script: create database db_prueba;
 
 ## Clave de usuario root de MySql
 Las claves del usuario root se pueden cambiar en la siguiente ubicación del proyecto de Spring Boot
