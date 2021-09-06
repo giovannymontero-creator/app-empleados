@@ -1,0 +1,1 @@
+INSERT INTO empleados (name, funcion) VALUES('Giovanny Montero', 70.0);
